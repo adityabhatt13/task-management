@@ -152,6 +152,3 @@ npm start
 - **CORS errors**: Ensure frontend runs on `http://localhost:3001` or update backend CORS origin to your actual frontend URL.
 - **Database connection**: Verify `DATABASE_URL` and that PostgreSQL is running and accessible.
 - **Prisma client not found**: Run `npm run prisma:generate` in `backend`.
-
-## License
-Specify your preferred license here.
